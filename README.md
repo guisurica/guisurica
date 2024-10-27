@@ -33,7 +33,7 @@ Acredito que a colaboração e o aprendizado contínuo são essenciais no mundo 
 
 ## 📫 Vamos nos conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/guilherme-campos-dotnet-developer/)
+- Linkedin: [Guilherme Campos](https://www.linkedin.com/in/guilherme-campos-dotnet-developer/)
 - Email: [guilhermesurica.contato@outlook.com](mailto:guilhermesurica.contato@outlook.com)
 
 ---
